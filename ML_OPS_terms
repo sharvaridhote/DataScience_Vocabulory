@@ -1,9 +1,10 @@
 Docker
 Docker is a set of #PaaS that delivers software and applications in isolated packages called containers. It does so in a manner that is more efficient than virtual machines since the operating system is virtualized instead of hardware. Additionally, environments can be version controlled!
+
 Some important terminology
 • Container: package code and dependencies together to facilitate reliability in multiple environments
 • Image: immutable snapshot of the container
 • Dockerfile: text file with instructions on how the image is to be built
 • DockerHub: Think GitHub for docker images
-lt, we know with certainty that the environment will be identical each and every time.
-Docker allows you to create an isolated, reproducible and portable workspace for everyone on your team! Each time the image is buit, we know with certainty that the environment will be identical each and every time.
+
+Docker allows you to create an isolated, reproducible and portable workspace for everyone on your team! Each time the image is built, we know with certainty that the environment will be identical each and every time.
