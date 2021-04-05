@@ -6,4 +6,4 @@ Some important terminology
 • Dockerfile: text file with instructions on how the image is to be built
 • DockerHub: Think GitHub for docker images
 lt, we know with certainty that the environment will be identical each and every time.
-Docker allows you to create an isolated, reproducible and portable workspace for everyone on your team! Each time the image is bui
+Docker allows you to create an isolated, reproducible and portable workspace for everyone on your team! Each time the image is buit, we know with certainty that the environment will be identical each and every time.
